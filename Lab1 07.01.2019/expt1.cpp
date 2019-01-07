@@ -65,6 +65,8 @@ int main()
 	cout<<"hi";
 	cout<<"Hello";
 	cout<<"Bye";
+	cout<<"sam";
+	cout<<"amey";
 }
 
 		
