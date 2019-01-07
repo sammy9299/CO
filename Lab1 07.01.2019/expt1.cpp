@@ -62,11 +62,7 @@ int main()
 	}
 	}
 	while(x!=3);
-	cout<<"hi";
-	cout<<"Hello";
-	cout<<"Bye";
-	cout<<"sam";
-	cout<<"amey";
+	
 }
 
 		
