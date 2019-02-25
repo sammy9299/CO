@@ -41,19 +41,19 @@ int main()
 	int x;
 	do
 	{
-	cout<<"Enter your choice\n"<<"1: Decimal to Binary\n"<<"2: Binary Decimal\n";
+	cout<<"Enter your choice\n"<<"1Decimal to binary\n"<<"2binary to Decimal\n";
 	cin>>x;
 	switch(x)
 	{
 		case 1:
 		int n;
-		cout<<"Enter Decimal number\n";
+		cout<<"Enter decimal number\n";
 		cin>>n;
 		dec_to_bin(n);
 		break;
 		case 2:
 		int n1;
-		cout<<"Enter Binary number\n";
+		cout<<"Enter binary number\n";
 		cin>>n1;
 		bin_to_dec(n1);
 		break;
